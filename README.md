@@ -64,6 +64,16 @@ Video to Text Converter/
 
 ## Screenshots
 
+Below are screenshots of the **VID2TEXT Converter** in action:
+
+### Initial Interface
+![initial interface](https://github.com/user-attachments/assets/e8f44d08-d931-4c6e-9221-0d7c3cf9fe6d)
+
+### Transcription in Progress
+![transcription in progress](https://github.com/user-attachments/assets/239982bb-b201-4f15-8e17-471cea58a6fa)
+
+### Saving Transcribed Text
+![saving trinscribed text](https://github.com/user-attachments/assets/1abcd9cc-9713-4379-8e68-4355890e57df)
 
 ---
 
